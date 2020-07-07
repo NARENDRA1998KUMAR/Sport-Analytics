@@ -12,7 +12,9 @@ Each row in this data set is about the runs scored by a player in a particular m
 
 >>Steps to Followed:
 1.)Identify Dimension & Metrics
-2.)Once you have a understanding about what is each row is all about, next we should classify the columns in the data. We can identify what the dimension and metrics in our data. Dimensions are those columns using which we can perform grouping operations. Like countr, state, geography, departments, school names, etch.
+2.)Once you have a understanding about what is each row is all about, next we should classify the columns in the data. 
+  We can identify what the dimension and metrics in our data. Dimensions are those columns using which we can perform grouping operations. 
+  Like countr, state, geography, departments, school names, etch.
 
 3.)Then we should identify the metrics columns. Metrics are basically the numeric columns in our data. Like sales revenue numbers, product volume numbers, ages, marks etc.,
 
